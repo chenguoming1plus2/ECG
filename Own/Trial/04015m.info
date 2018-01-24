@@ -1,0 +1,10 @@
+Source: record afdb/04015  Start: [09:00:00.000]
+val has 2 rows (signals) and 1000000 columns (samples/signal)
+Duration:  1:06:40
+Sampling frequency: 250 Hz  Sampling interval: 0.004 sec
+Row	Signal	Gain	Base	Units
+1	ECG1	200	0	mV
+2	ECG2	200	0	mV
+
+To convert from raw units to the physical units shown
+above, subtract 'base' and divide by 'gain'.
